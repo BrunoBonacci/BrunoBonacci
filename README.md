@@ -16,4 +16,4 @@
 | [ring-boost     ](https://github.com/BrunoBonacci/ring-boost)      | A library to boost performances web apps with off-heap serverside caching. | ![stars](https://img.shields.io/github/stars/BrunoBonacci/ring-boost?style=social)      |
 | [easy-subnet     ](https://github.com/BrunoBonacci/easy-subnet)    | A command line tool for easily splitting a network range into subnets.     | ![stars](https://img.shields.io/github/stars/BrunoBonacci/easy-subnet?style=social)     |
 
-For more info check [My Projects page](my-projects.md)
+For more info check [My Projects page](./my-projects.md)
