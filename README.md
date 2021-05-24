@@ -1,3 +1,10 @@
+<a href="https://github.com/BrunoBonacci">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=BrunoBonacci&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/BrunoBonacci">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBonacci&layout=compact&show_icons=true" />
+</a>
+
 ### My Open-Source projects.
 
 | Project                                                            | Description                                                                | Social                                                                                  |
@@ -17,10 +24,3 @@
 | [easy-subnet     ](https://github.com/BrunoBonacci/easy-subnet)    | A command line tool for easily splitting a network range into subnets.     | ![stars](https://img.shields.io/github/stars/BrunoBonacci/easy-subnet?style=social)     |
 
 For more info check [My Projects page](./my-projects.md)
-
-<a href="https://github.com/BrunoBonacci">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=BrunoBonacci&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/BrunoBonacci">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBonacci&layout=compact&show_icons=true" />
-</a>
