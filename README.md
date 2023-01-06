@@ -2,7 +2,7 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=BrunoBonacci&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/BrunoBonacci">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBonacci&layout=compact&show_icons=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBonacci&layout=compact&show_icons=true&hide=html,css" />
 </a>
 
 ### My Open-Source projects.
